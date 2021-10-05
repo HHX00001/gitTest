@@ -6,4 +6,5 @@ package cn.hhx.githhh;
  */
 public class TestGit1 {
     //ssh push
+    //ssh pull test
 }
